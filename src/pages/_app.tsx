@@ -1,5 +1,5 @@
-// src/pages/_app.tsx
-import '../styles/globals.css'; // 전역 CSS 파일을 임포트합니다.
+// mbka/src/pages/_app.tsx
+import '../styles/globals.css'; // 전역 스타일 임포트
 import type { AppProps } from 'next/app';
 
 function MyApp({ Component, pageProps }: AppProps) {
